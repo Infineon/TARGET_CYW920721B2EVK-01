@@ -1,3 +1,4 @@
+## ( deprecated: last version was 'release-v2.3.0' )
 # CYW920721B2EVK-01
 
 ### Overview
